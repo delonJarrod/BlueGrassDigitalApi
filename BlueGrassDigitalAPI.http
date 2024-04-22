@@ -1,0 +1,6 @@
+@BlueGrassDigitalAPI_HostAddress = http://localhost:5082
+
+GET {{BlueGrassDigitalAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

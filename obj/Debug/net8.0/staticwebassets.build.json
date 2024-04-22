@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nEOAnzO2qGWpKLklWSod9Mqx3iUM98g+uo7kEZrN7ug=",
+  "Source": "BlueGrassDigitalAPI",
+  "BasePath": "_content/BlueGrassDigitalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
